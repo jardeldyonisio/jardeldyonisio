@@ -33,7 +33,7 @@ Seeking improvement and knowledge in the following areas:<br>
   <img align="center" alt="Jardel-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Jardel-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Jardel-Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
-  <img align="center" alt="Jardel-vscode" height="30" width="40" src="ttps://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Jardel-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
   
    ##
