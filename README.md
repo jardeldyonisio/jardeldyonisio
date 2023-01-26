@@ -5,7 +5,8 @@ I'm 23 years old, Industrial Automation technician graduated at IFRS - Campus Ri
 ### 🔓 Skills
 - Projects with Arduino and similar;
 - Knowledge of Python and C;
-- Intermediary level of English.
+- Intermediary level of English;
+- Teamwork
 
 ### 📚 Areas of interest 
 Seeking improvement and knowledge in the following areas:<br>
@@ -31,6 +32,7 @@ Seeking improvement and knowledge in the following areas:<br>
   <img align="center" alt="Jardel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jardel-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Jardel-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/linux/linux-original.svg">
+  <img align="center" alt="Jardel-Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
 </div>
   
    ##
