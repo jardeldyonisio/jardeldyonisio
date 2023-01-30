@@ -6,7 +6,7 @@ I'm 23 years old, Industrial Automation technician graduated at IFRS - Campus Ri
 - Projects with Arduino and similar;
 - Knowledge of Python and C;
 - Intermediary level of English;
-- Teamwork
+- Teamwork.
 
 ### 📚 Areas of interest 
 Seeking improvement and knowledge in the following areas:<br>
