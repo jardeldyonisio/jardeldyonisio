@@ -1,6 +1,6 @@
 ## 🙋🏻 About me 
 
-I'm 23 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently studying the 8th semester of Automation Engineering at the Universidade Federal do Rio Grande (FURG). I work as volunteer on the Robotic Team FBOT in the domestic robot (@Home) category and path planning for logistic navigation of autonomous robots.
+I'm 23 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently studying the 8th semester of Automation Engineering at the Universidade Federal do Rio Grande (FURG). I work as volunteer on the Robotic Team FBOT in the domestic robot (@Home) category and path planning for logistic navigation of autonomous robots. I'm also member of Brazilian Robotics Competition @Home technical committee.
 
 ### 🔓 Skills
 - Projects with Arduino and similar;
