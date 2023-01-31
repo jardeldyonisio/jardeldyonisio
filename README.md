@@ -19,7 +19,7 @@ Seeking improvement and knowledge in the following areas:<br>
 ### 🏆 Awards 
 - 🥉 Brazilian Robotics Competition 2020;
 - 🥈 Brazilian Robotics Competition 2021;
-- 🥇 RoboCup@Home International Bangkok 2022;
+- 🥉 RoboCup@Home International Bangkok 2022;
 - 🥇 Brazilian Robotics Competition 2022.
 
 <div align="left">
