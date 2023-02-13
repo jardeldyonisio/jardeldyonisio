@@ -14,7 +14,7 @@ Seeking improvement and knowledge in the following areas:<br>
 - ROS;
 - Gazebo; 
 - Navigation;
-- Robotic.
+- Robotics.
 
 ### 🏆 Awards 
 - 🥉 Brazilian Robotics Competition 2020;
