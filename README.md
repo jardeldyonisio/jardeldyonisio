@@ -1,29 +1,35 @@
 ## 🙋🏻 About me 
 
-I'm 23 years old, Industrial Automation technician graduated at IFRS - Campus Rio Grande, currently studying the 8th semester of Automation Engineering at the Universidade Federal do Rio Grande (FURG). I work as volunteer on the Robotics Team FBOT in the domestic robot (@Home) category and path planning for logistic navigation of autonomous robots. I'm also member of Brazilian Robotics Competition @Home technical committee and member of organization committee RoboCup@Home.
+I'm an **Automation Engineer** with a strong passion for **robotics**, particularly in **autonomous navigation**, **mobile robotics**, and **system integration**. I have experience in **Python**, **ROS1/ROS2**, **path planning**, **navigation**, and **sensor integration**. I am an active contributor to the **FBOT Robotics Team**, leading projects in mobile robot design and development. I am also experienced in **research**, **problem-solving**, and **team collaboration**, with a strong track record of success in **national and international robotics competitions**. I am eager to apply my robotics knowledge in challenging roles.
 
 ### 🔓 Skills
-- Projects with Arduino and similar;
-- Knowledge of Python and C;
-- Intermediary level of English;
-- Teamwork.
+- **Programming Languages**: Python, C/C++  
+- **Libraries & Tools**: NumPy, Git, GitHub, Linux  
+- **Robotics**: ROS1/ROS2, Navigation Stack, SLAM, LiDAR (2D), Odometry, IMU, Gazebo, SMACH, YASMIN, Sensor Fusion  
+- **Languages**: Portuguese (native), English (intermediate)  
+- **Soft Skills**: Team Leadership, Team Work, Organized, Proactive  
 
-### 📚 Areas of interest 
-Seeking improvement and knowledge in the following areas:<br>
-- Python;
-- ROS;
-- Gazebo; 
-- Navigation;
-- Robotics.
+### 📚 Areas of Interest
+Seeking improvement and knowledge in the following areas:  
+- Autonomous Navigation  
+- Mobile Robotics  
+- ROS and Gazebo  
+- Path Planning  
+- Sensor Integration 
 
-### 🏆 Awards 
-- 🥉 Brazilian Robotics Competition 2020;
-- 🥈 Brazilian Robotics Competition 2021;
-- 🥉 RoboCup@Home International Bangkok 2022;
-- 🥇 Brazilian Robotics Competition 2022.
+### 🏆 Achievements 
+- 🥉 **Brazilian Robotics Competition** 2019
+- 🥉 **Brazilian Robotics Competition** 2020
+- 🥈 **Brazilian Robotics Competition** 2021 
+- 🥇 **Brazilian Robotics Competition** 2022 
+- 🥇 **Brazilian Robotics Competition** 2023 
+- 🥇 **Brazilian Robotics Competition** 2024  
+- 🥉 **RoboCup@Home World Competition** Bangkok 2022
+- 9° place **RoboCup@Home World Competition** Bordeaux 2023
+- 11° place **RoboCup@Home World Competition** Eindhoven 2024
 
 <div align="left">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/jardeldyonisio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jardeldyonisio&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeldyonisio&layout=compact&langs_count=7&theme=dark"/>
 </div>
