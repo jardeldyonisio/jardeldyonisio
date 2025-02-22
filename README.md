@@ -1,6 +1,6 @@
 ## 🙋🏻 About me 
 
-I'm an **Automation Engineer** with a strong passion for **robotics**, particularly in **autonomous navigation**, **mobile robotics**, and **system integration**. I have experience in **Python**, **ROS1/ROS2**, **path planning**, **navigation**, and **sensor integration**. I am an active contributor to the **FBOT Robotics Team**, leading projects in mobile robot design and development. I am also experienced in **research**, **problem-solving**, and **team collaboration**, with a strong track record of success in **national and international robotics competitions**. I am eager to apply my robotics knowledge in challenging roles.
+I'm an **Automation Engineer** with a strong passion for **robotics**, particularly in **autonomous navigation**, **mobile robotics**, and **system integration**. I have experience in **Python**, **ROS1/ROS2**, **path planning**, **navigation**, and **sensor integration**. I am an active contributor to the **FBOT Robotics Team**, leading projects in mobile robot design and development. I am also experienced in **research**, **problem-solving**, and **team collaboration**, with a strong track record of success in **national and international robotics competitions**.
 
 ### 🔓 Skills
 - **Programming Languages**: Python, C/C++  
